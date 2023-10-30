@@ -36,7 +36,7 @@ function App() {
 
         if (copyItems[index].clicked !== false) {
             return (
-                <div className={'open-cell'}></div>
+                <div className={'open-cel'}></div>
             );
         }
 
